@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">festival</string>
+    <string name="textViewTitre">Affichage des représentations du festival</string>
+    <string name="textViewGroupe">Groupe : </string>
+    <string name="textViewAfficheGroupe">groupe</string>
+    <string name="textViewDate">Date : </string>
+    <string name="textViewAfficheDate">date</string>
+    <string name="textViewHeureDeb">Heure de début : </string>
+    <string name="textViewAfficheHeureDeb">heure de debut</string>
+    <string name="textViewHeureFin">Heure de fin : </string>
+    <string name="textViewAfficheHeureFin">heure de fin</string>
+    <string name="textViewLieu">Lieu : </string>
+    <string name="textViewAfficheLieu">lieu</string>
+    <string name="textViewNbPlacesTotales">Places totales : </string>
+    <string name="textViewAffichageNbPlacesTotales">nbplacestotales</string>
+    <string name="textViewNbPlacesDisponibles">Places disponibles : </string>
+    <string name="textViewAffichageNbPlacesDisponibles">nbplacesdisponibles</string>
+    <string name="textViewConnexion">Authentification</string>
+    <string name="textViewLogin">Identifiant</string>
+    <string name="editTextLogin" />
+    <string name="textViewMdp">Mot de passe</string>
+    <string name="buttonConnexion">Connexion</string>
+    <string name="buttonAuthentification">Authentification</string>
+    <string name="buttonRetour">Retour</string>
+    <string name="textViewNbPlacesVoulues">Places voulues</string>
+    <string name="buttonMainConnexion">Se connecter</string>
+    <string name="buttonBackHome">Revenir à la liste des représentations</string>
+    <string name="buttonReservation">Réserver</string>
+    <string name="buttonDeconnexion">Déconnexion</string>
+</resources>

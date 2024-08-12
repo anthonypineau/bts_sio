@@ -1,0 +1,14 @@
+festival/festival_android/*.iml
+festival/festival_android/.gradle
+festival/festival_android//local.properties
+festival/festival_android//.idea/caches
+festival/festival_android//.idea/libraries
+festival/festival_android//.idea/modules.xml
+festival/festival_android//.idea/workspace.xml
+festival/festival_android//.idea/navEditor.xml
+festival/festival_android//.idea/assetWizardSettings.xml
+festival/festival_android/.DS_Store
+festival/festival_android//build
+festival/festival_android//captures
+festival/festival_android/.externalNativeBuild
+festival/festival_android/.cxx
